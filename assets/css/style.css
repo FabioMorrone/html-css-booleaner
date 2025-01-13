@@ -1,0 +1,12 @@
+:root {
+    --booleaner1: #4da0ff;
+    --booleaner2: #20a9e5;
+    --booleaner3: #b1e5f2;
+    --booleaner4: #5abfeb;
+}
+
+#site_header {
+    background-color: var(--booleaner1);
+    
+
+}
