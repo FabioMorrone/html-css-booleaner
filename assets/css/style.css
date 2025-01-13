@@ -12,8 +12,6 @@
 
 #site_header {
     background-color: var(--booleaner1);
-}
-
-#pattern_image{
-    
+    background-image: -moz-element(url(../img/pattern.png));
+    background-repeat: repeat-x;
 }
