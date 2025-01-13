@@ -10,8 +10,30 @@
 
 
 
-#site_header {
+#site_header
+{
     background-color: var(--booleaner1);
-    background-image:  url("../img/pattern.png");
-    background-repeat: repeat-x;
+    background-image: url("../img/pattern.png");
+
+}
+
+.title
+{
+color: #4da0ff;
+}
+
+.logo{
+    width: 500px;
+}
+
+.lorem{
+    background-color: yellow;
+}
+
+.back_tab{
+    background-color: #5abfeb;
+}
+
+.back_tab2{
+ background-color: #b1e5f2;
 }
